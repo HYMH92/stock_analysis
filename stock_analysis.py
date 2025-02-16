@@ -1,5 +1,4 @@
 import requests
-import telepot
 import yfinance as yf
 from datetime import datetime, timedelta
 import pandas as pd
