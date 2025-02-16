@@ -62,14 +62,14 @@ SP500 = [
 
 SOME_MORE = [
     "WMT", "WYNN", "XLB", "XBI", "XLF", "XLK", "XLY", "XLP", "XME",
-    "XOM", "XOP", "XRX", "XYL", "YUM", "ZBH", "ZION",
-    "ZTS", "ZNGA", "ZMH", "ZTO", "ZUO", "AAL", "AAP", "ABBV", "ABT",
+    "XOM", "XOP", "XYL", "YUM", "ZBH", "ZION",
+    "ZTS", "ZNGA", "ZMH", "ZTO", "AAL", "AAP", "ABBV", "ABT",
     "ACN", "ABFH", "AGNC", "AIG", "ALL", "ALXN",
     "ANTM", "AON", "APA", "APC", "APD", "APH", "ARE", "ARGO",
     "ARKG", "ARKK", "ARKQ", "ARKW", "ARMK", "ASIA", "ATVI",
     "AVY", "BABA", "BBBY", "BBT", "BBVA", "BCS", "BDX", "BEN", "BF.B",
     "BK", "BMY", "BRKB", "BSX",
-    "TGT", "TWTR", "UA", "UNH", "UNM", "UNP", "UPS", "URBN",
+    "TGT", "TWTR", "UA", "UNH", "UNM", "UNP", "UPS",
     "USB", "V", "VZ", "WAG", "WFC", "WHR", "WLTW", "WM", "WMB", "WMT",
     "IYW", "QQEW", "QQDM", "IHI", "IHD", "IHS", "IHO", "SPGI",
     "IGF", "IGI", "IGM", "IGV", "IGW", "IHY", "IJH", "IJR", "IJS", "IJV",
@@ -85,7 +85,7 @@ SOME_MORE = [
 
 ETF  = [
     "NLR", "URA", "XLE", "TOPT", "XLG", "GRNY", "MAGS", "IBIT", "HACK",
-    "IGV", "SMH", "QQQM", "VOO", "IWM"
+    "IGV", "SMH", "QQQM", "VOO", "IWM", "NDA", "FXI"
     ]
 
 
