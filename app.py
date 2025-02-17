@@ -137,10 +137,20 @@ def fetch_stocks():
         st.session_state.last_update = datetime.now()
         save_results(results)
 
+# Function to check for updated data
+def check_for_updates():
+    if st.session_state.last_update is None or st.session_state.last_update.date() < datetime.now().date():
+        fetch_stocks()
+    else:
+        st.info("Data is already up-to-date.")
+
 # Display the "Find stocks" button if needed
 if st.session_state.results is None and not st.session_state.button_clicked:
     st.markdown("<br>", unsafe_allow_html=True)  # Add some spacing
     st.button("🎯 Analyze Stocks", on_click=fetch_stocks)
+
+# Display the "Check for updated data" button
+st.button("🔄 Check for updated data", on_click=check_for_updates)
 
 # Display results if available
 if st.session_state.results is not None:
