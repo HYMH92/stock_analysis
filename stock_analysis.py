@@ -68,8 +68,8 @@ SOME_MORE = [
     "ARKG", "ARKK", "ARKQ", "ARKW", "ARMK", "ASIA", "ATVI",
     "AVY", "BABA", "BBBY", "BBT", "BBVA", "BCS", "BDX", "BEN", "BF.B",
     "BK", "BMY", "BRKB", "BSX",
-    "TGT", "TWTR", "UA", "UNH", "UNM", "UNP", "UPS",
-    "USB", "V", "VZ", "WAG", "WFC", "WHR", "WLTW", "WM", "WMB", "WMT",
+    "TGT", "TWTR", "UA", "UNH", "UNM", "UPS",
+    "USB", "V", "WAG", "WFC", "WHR", "WLTW", "WM", "WMB", "WMT",
     "IYW", "QQEW", "QQDM", "IHI", "IHD", "IHS", "IHO", "SPGI",
     "IGF", "IGI", "IGM", "IGV", "IGW", "IHY", "IJH", "IJR", "IJS", "IJV",
     "IYW", "IYZ", "JCI", "JPM", "JNJ", "JNPR", "K", "KEY", "KMI",
@@ -84,7 +84,7 @@ SOME_MORE = [
 
 ETF  = [
     "NLR", "URA", "XLE", "TOPT", "XLG", "GRNY", "MAGS", "IBIT", "HACK",
-    "IGV", "SMH", "QQQM", "VOO", "IWM", "NDA", "FXI"
+    "IGV", "SMH", "QQQM", "VOO", "IWM", "INDA", "FXI"
     ]
 
 
